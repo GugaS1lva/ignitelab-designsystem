@@ -50,5 +50,5 @@ export const CustomComponent: StoryObj<HeadingProps> = {
                 disable: true
             }
         }
-    }
+    },
 }

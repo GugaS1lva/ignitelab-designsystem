@@ -26,4 +26,3 @@ export const Text = ({ size = 'md', children, asChild }: TextProps) => {
         </Comp>
     )
 }
-

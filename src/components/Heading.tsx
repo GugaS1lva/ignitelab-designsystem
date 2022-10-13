@@ -26,4 +26,3 @@ export const Heading = ({ size = 'md', children, asChild }: HeadingProps) => {
         </Comp>
     )
 }
-
